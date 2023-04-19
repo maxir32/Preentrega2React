@@ -1,0 +1,11 @@
+.cardItemDetail {
+    width: 350px;
+    height: 650px;
+    background-color:rgb(194, 245, 238);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    justify-content: center;
+    position: relative;
+    left: 36%
+}

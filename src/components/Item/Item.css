@@ -1,0 +1,14 @@
+.cardItem {
+    width: 250px;
+    height: 350px;
+    background-color: rgb(194, 245, 238);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.itemImage {
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+}
